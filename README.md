@@ -18,9 +18,9 @@ Print both the values it would be circulated
 ### Step 6: 
 End the program
 ## Program:
-# Program to circulate N values.
-# Developed by: VIKAASH K S
-# RegisterNumber:23013426
+#Program to circulate N values.
+#Developed by: VIKAASH K S
+#RegisterNumber:23013426
 ~~~
 def circulate():
     n=eval(input())
