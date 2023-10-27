@@ -21,11 +21,13 @@ End the program
 # Program to circulate N values.
 # Developed by: VIKAASH K S
 # RegisterNumber:23013426
+~~~
 def circulate():
     n=eval(input())
     a=int(input())
     n=n[a:]+n[:a]
     print("After circulating the values are:",n)
+~~~
 ## Output:
 ![Screenshot 2023-10-27 214945](https://github.com/Vikaash19/Circulate-the-values-of-N-variables/assets/148514589/7a3d0a3c-6a54-4a8a-9591-9573d9fc36fa)
 ## Result:
