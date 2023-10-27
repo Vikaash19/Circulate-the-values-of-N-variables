@@ -19,8 +19,8 @@ Print both the values it would be circulated
 End the program
 ## Program:
 # Program to circulate N values.
-# Developed by: SAI GURUCHANDRAN G
-# RegisterNumber:23014037
+# Developed by: VIKAASH K S
+# RegisterNumber:23013426
 def circulate():
     n=eval(input())
     a=int(input())
