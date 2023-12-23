@@ -29,6 +29,6 @@ def circulate():
     print("After circulating the values are:",n)
 ~~~
 ## Output:
-![Screenshot 2023-10-27 214945](https://github.com/Vikaash19/Circulate-the-values-of-N-variables/assets/148514589/7a3d0a3c-6a54-4a8a-9591-9573d9fc36fa)
+![circulate n variables](https://github.com/Vikaash19/Circulate-the-values-of-N-variables/assets/148514589/a916f7cf-6261-4e7e-b1b0-65ba1b0c3dea)
 ## Result:
 Thus the Circulation of the values of N variables are successfully executed
